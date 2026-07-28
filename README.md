@@ -28,19 +28,19 @@ This project is an end-to-end analysis of **MetroBank**, a fictional financial i
 ```
 metrobank-analytics/
 │
-├── workbooks/
-│   ├── W3.xlsx
-│   ├── mb w2.xlsx
-│   ├── mb.xlsx
-│   ├── w4.xlsx
-│   └── w5.xlsx
-│
 ├── assets/
 |   |── dash1.png/
 │   |── dash2.png/
 │   |── dash3.png/
 │   |── dash4.png/
 │   └── dash5.png/
+|
+├── workbooks/
+│   ├── W3.xlsx
+│   ├── mb w2.xlsx
+│   ├── mb.xlsx
+│   ├── w4.xlsx
+│   └── w5.xlsx
 |
 └── README.md
 ```
