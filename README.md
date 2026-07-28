@@ -29,11 +29,11 @@ This project is an end-to-end analysis of **MetroBank**, a fictional financial i
 metrobank-analytics/
 │
 ├── workbooks/
-│   ├── 01_customer_segmentation.xlsx
-│   ├── 02_accounts_and_credit.xlsx
-│   ├── 03_transaction_behavior.xlsx
-│   ├── 04_branch_performance.xlsx
-│   └── 05_risk_and_complaints.xlsx
+│   ├── W3.xlsx
+│   ├── mb w2.xlsx
+│   ├── mb.xlsx
+│   ├── w4.xlsx
+│   └── w5.xlsx
 │
 ├── assets/
 |   |── dash1.png/
